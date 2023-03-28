@@ -7,7 +7,11 @@ leonardo linha 6
 leonardo linha 7
 leonardo linha 8
 leonardo linha 9
+<<<<<<< HEAD
 leonardo linha 13
+=======
+leonardo linha 15
+>>>>>>> desenvolvimento
 leonardo linha 10
 leonardo linha 11
 
